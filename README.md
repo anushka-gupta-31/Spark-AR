@@ -1,15 +1,13 @@
 # Spark-AR
 
-I have created some projects in spark AR, please check thm out using th given test links:
+This repo contains the project files for the project which I have worked on during the Facebook AR hackathon.
 
-https://www.facebook.com/fbcameraeffects/testit/2642808342636437/MGMzNDM5Mzk3ODQ4NDIxNTg4MjlhYTU1ZTRkMDhiNWU=/
+The projects are created using Spark AR. 
 
-https://www.facebook.com/fbcameraeffects/testit/256499355438488/YTY4NGU0YjRjODk2NGNiNDI5MzJhYmMyY2UzMTQ1NDY=/
+In the projects, I have used plane tracker, face tracker, and have worked with 3d objects and have tried to animate them for a wonderful user experience.
 
-https://www.facebook.com/fbcameraeffects/testit/356603658848304/MDZmNjdkYWUzY2EyYzNjN2M3NGUwOGIxMGQxMTViNTg=/
+Using the plane tracker, whenever a plane is detected, the 3d object is placed on the plane, which results in the user to experience a 3d object placed in his own surrounding environment.
 
-https://www.facebook.com/fbcameraeffects/testit/832941614111647/MjkwZGIxOWEwYmUyZGMzYTY1OWQwM2UwM2VmMTIyYzg=/
+Using the face tracker, I have created some face deformation animations and using face tracker along with plane occluder, I have created an amazing effect.
 
-https://www.facebook.com/fbcameraeffects/testit/621696755203986/MWM0OTQxZTQ5OTQ0ODAxMDQ3OTYwYmU3Y2JkZDU0MzE=/
-
-(some of the testing links ould not be provided due to some technical issues, but they are demonstrated in th demo video)
+I have also used segmentation to change the backgroung and also I have added animation using gifs.
