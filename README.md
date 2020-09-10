@@ -1,6 +1,6 @@
 # Spark-AR
 
-This repo contains the project files for the project which I have worked on during the Facebook AR hackathon.
+This repo contains the project files for the projects which I have worked on during the Facebook AR hackathon.
 
 The projects are created using Spark AR. 
 
@@ -10,4 +10,4 @@ Using the plane tracker, whenever a plane is detected, the 3d object is placed o
 
 Using the face tracker, I have created some face deformation animations and using face tracker along with plane occluder, I have created an amazing effect.
 
-I have also used segmentation to change the backgroung and also I have added animation using gifs.
+I have also used segmentation to change the background and also I have added animation using gifs.
